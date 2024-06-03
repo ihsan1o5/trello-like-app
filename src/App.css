@@ -1,0 +1,11 @@
+.sidebar {
+  height: calc(100vh - 50px);
+}
+
+.list {
+  height: calc(100vh - 74px);
+}
+
+.height-contain {
+  height: fit-content;
+}
